@@ -1,4 +1,4 @@
-# Topic_Modeling_and_Sentiment_Analysis
+# Topic Modeling and Sentiment Analysis
 
 
 Abstract: Sentiment analysis is a topic that has commanded the attention of natural language processing groups. Generally, e-commerce businesses perform sentiment analysis to assess public opinion on their products (Dang et al., 2020), while customers find reviews of such products useful when making purchasing decisions. We examine sentiment analysis algorithms on a dataset from the retailer Amazon (largest online retailer by a significant margin), recommend a most accurate model for sentiment analysis, and propose novel topic modeling techniques (based on a frequency, transformers and GPT-3 approaches) to isolate sources of satisfaction and causes of failure for various products.
